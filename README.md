@@ -1,6 +1,6 @@
-# EmotionTalk
+# EmotionTalk: An Interactive Chinese Multimodal Emotion Dataset With Rich Annotations.
 
-This repo implements the code for the following paper: "MERBench: A Unified Evaluation Benchmark for Multimodal Emotion Recognition"
+This repository is implemented based on the open-source code of "MERBench: A Unified Evaluation Benchmark for Multimodal Emotion Recognition".
 
 ## Environment
 
