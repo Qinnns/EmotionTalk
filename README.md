@@ -12,8 +12,6 @@
 ---
 
 
-This repository is implemented based on the open-source code of "MERBench: A Unified Evaluation Benchmark for Multimodal Emotion Recognition".
-
 ## 📖 Overview
 
 We propose EmotionTalk, an interactive Chinese multimodal emotion dataset with rich annotations. This dataset provides multimodal information from 19 actors participating in dyadic conversational settings, incorporating acoustic, visual, and textual modalities. It includes 23.6 hours of speech (19,250 utterances), annotations for 7 utterance-level emotion categories (happy, surprise, sad, disgust, anger, fear, and neutral), 5-dimensional sentiment labels (negative, weakly negative, neutral, weakly positive, and positive) and 4-dimensional speech captions (speaker, speaking style, emotion and overall). The dataset is well-suited for research on unimodal and multimodal emotion recognition, missing modality challenges, and speech captioning tasks. To our knowledge, it represents the first high-quality and versatile Chinese dialogue multimodal emotion dataset, which is a valuable contribution to research on cross-cultural emotion analysis and recognition. Additionally, we conduct experiments on EmotionTalk to demonstrate the effectiveness and quality of the dataset. It will be open-source and freely available for all academic purposes. The dataset and codes will be made available at [EmotionTalk](https://github.com/NKU-HLT/EmotionTalk).
@@ -35,3 +33,7 @@ openface_win_x64  (https://drive.google.com/file/d/1-O8epcTDYCrRUU_mtXgjrS3OWA4H
 You need to follow the steps to run in EmotionTalk/run.sh. 
 
 Please refer to run.sh for more details.
+
+## **Acknowledgments**
+
+This project builds upon prior work from the [zeroQiaoba/MERTools](https://github.com/zeroQiaoba/MERTools) repository. We thank them for their contributions! 
