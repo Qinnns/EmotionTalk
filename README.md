@@ -7,6 +7,11 @@ This repository is implemented based on the open-source code of "MERBench: A Uni
 ```shell
 conda env create -f environment.yml
 ```
+
+## Download
+We changed the platform where the dataset is hosted due to some errors in the platform (dataverse.harvard) that have not been resolved. 
+We will release the dataset as soon as possible.
+
 ## Tool
 openface_win_x64  (https://drive.google.com/file/d/1-O8epcTDYCrRUU_mtXgjrS3OWA4HTp0-/view?usp=share_link  -> tools/openface_win_x64)
 
